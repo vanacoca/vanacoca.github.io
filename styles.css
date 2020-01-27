@@ -1,16 +1,22 @@
-h1 {
-    color: red; 
-    font-size: 50px;
- }
- h2 {
-     color:green;
- }
- h1, h2 {
-     color:purple;
- }
- .odd {
-     color:orange;
- }
- li {
-     color:blue
- }
+
+body {
+    background-color:lightgray;
+    font-family:'Muli';
+}
+.jumbotron {
+    background-attachment: fixed;
+    background-image: url(Healthcare\ Banner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    text-shadow: 1px 1px 1px black;
+}
+    h1{
+        color: black
+    }
+    .btn {
+        color: black;
+    }
+    .table {
+        color: cornflowerblue;
+    }
